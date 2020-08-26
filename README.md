@@ -1,1 +1,1 @@
-# test repository gg WP BB
+# test repository gg
